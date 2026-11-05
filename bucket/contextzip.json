@@ -1,12 +1,12 @@
 {
-  "version": "0.6.0",
+  "version": "0.6.1",
   "description": "Package exactly the right parts of your codebase for any AI tool",
   "homepage": "https://www.contextzipcli.com",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/akadeepesh/contextzip/releases/download/v0.6.0/contextzip-0.6.0-win32-x64.zip",
-      "hash": "911f1cc1ac4ce8d01824623a9eb507fa877b998294b6f7551267661ce142c7e0"
+      "url": "https://github.com/akadeepesh/contextzip/releases/download/v0.6.1/contextzip-0.6.1-win32-x64.zip",
+      "hash": "68cd0dbab1b63ade521cc29d0b97f691974ab4d5dd748beebdc810dd0f33afea"
     }
   },
   "extract_dir": "contextzip",
